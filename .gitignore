@@ -3,3 +3,6 @@ __pycache__/
 .env
 venv
 venv/
+*.ipynb
+test.ipynb
+async_stream_client.py
